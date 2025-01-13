@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World!, I'm M. Inam Bari, a Flutter front-end Developer 👋🏼:
 🔭 I’m currently working on an e-commerce app with admin panel using flutter and firebase.<br>🌱 I’m currently learning firebase, state management and also improving my logic building skill.<br>📫 How to reach me inambari6789@gmail.com.<br>⚡ Fun fact My first program was 'Hello, World!', and it’s been a wild ride since then.<br><br>
 
 
