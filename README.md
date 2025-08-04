@@ -112,4 +112,3 @@ Tools:        GitHub, FileZilla, cPanel, WHM, Sucuri, Imunify
   <strong>⭐ Always learning, always building. Let's collaborate on something amazing! ⭐</strong><br><br>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" />
 </p>
-```
