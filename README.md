@@ -1,45 +1,62 @@
-# Hello World! I'm Muhammad Inam Bari, WordPress Developer & Cloud Enthusiast 👋🏼
+# 👋 Hi, I'm Muhammad Inam Bari
 
-🔭 I’m currently enhancing eCommerce platforms with WordPress, Shopify, and cloud infrastructure (AWS & Oracle Cloud).  
-🌱 Continuously learning advanced plugin development, cloud deployments, and DevOps automation.  
-📫 How to reach me: inambari6789@gmail.com  
-⚡ Fun fact: My journey started with "Hello, World!" and now I’m building scalable web solutions and chatbot services.
+🎯 **WordPress Developer | Web Developer | Cloud Enthusiast**  
+💡 Passionate about building scalable web solutions and integrating cloud + AI tools into real-world applications.
 
 ---
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-inam-bari-371a35210)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mibrana)
+## 🧑‍💻 About Me
+
+I'm a detail-oriented Web Developer with hands-on experience in:
+
+- 🔧 **WordPress Development** – Theme customization, plugin development, child themes, Elementor
+- 🛒 **Shopify** – Store setup, CJ & Avasam dropshipping integration, automated order fulfillment
+- ☁️ **Cloud Deployment** – AWS EC2, Oracle Cloud, Cloudflare, static IP, SSL
+- 🔐 **Web Security** – Malware removal, WHM Imunify, Sucuri, permission handling
+- 🔁 **API Integration** – REST APIs (Aladhan, OpenAI, Gemini, ChatGPT), cURL, JSON
+- ⚙️ **Backend Development** – PHP, MySQL, custom admin panels
+- 🤖 **AI & Bots** – LLaMA 3 integration, Botpress v12, chatbot-as-a-service modules
+- 🧰 **Tools** – FileZilla, cPanel/WHM, GitHub, CLI, SMTP/SSL setup
+
+I love solving real-world problems with clean, maintainable code, and continuously learning new technologies.
 
 ---
 
-# 💻 Tech Stack  
-![PHP](https://img.shields.io/badge/PHP-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
-![Shopify](https://img.shields.io/badge/Shopify-%2396bf48.svg?style=for-the-badge&logo=shopify&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-%23000000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+## 🚀 Featured Projects
+
+### 🤖 Botpress v12 Cloud Deployment (Ongoing)
+Self-hosted open-source chatbot platform deployed on **AWS EC2**. Created custom modules for:
+- 🧩 Dynamic webchat embed script generation
+- ⚙️ UI-based API model selection (ChatGPT, Gemini) with live testing
+- 🛡️ Secure API key handling, error fallback, and dev validation
+> _Technologies: AWS · Node.js · TypeScript · Cloudflare · SSL · SCSS · HTML_
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=mibrana&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+### 🛍️ Shopify Dropshipping Store
+- Built a custom Shopify store
+- Integrated with **CJ Dropshipping** and **Avasam**
+- Configured for automated fulfillment and product sync
 
 ---
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+### 📝 Smart Summary Plugin Enhancement (WordPress)
+- Modified existing plugin to **store post summaries in `wp_postmeta`**
+- Reduced redundant generation, improving performance and load time
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mibrana&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🧩 Role-Based Task Management System
+- PHP/MySQL app for manager-employee workflows
+- Secure login, task filters, audit logs, color-coded statuses
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠️ Tech Stack
+
+```yaml
+Languages: PHP, JavaScript, HTML, CSS, TypeScript
+Frameworks: WordPress, Shopify, Bootstrap, React
+Databases: MySQL
+DevOps: AWS EC2, Oracle Cloud, Cloudflare, FileZilla
+Tools: GitHub, cPanel, WHM, Sucuri, Imunify, Wordfence
