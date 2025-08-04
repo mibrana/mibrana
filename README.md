@@ -77,7 +77,9 @@ Tools:        GitHub, FileZilla, cPanel, WHM, Sucuri, Imunify
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inambari6789&theme=radical&row=1&column=6" />
+  <a href="https://github.com/inambari6789">
+    <img src="https://github-profile-trophy.vercel.app/?username=inambari6789&theme=radical&margin-w=10&margin-h=15" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
@@ -85,8 +87,15 @@ Tools:        GitHub, FileZilla, cPanel, WHM, Sucuri, Imunify
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inambari6789&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inambari6789&layout=compact&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/inambari6789">
+    <img src="https://github-readme-stats.vercel.app/api?username=inambari6789&show_icons=true&theme=github_dark&hide_title=false&hide_border=false&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/inambari6789">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inambari6789&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
+  </a>
 </p>
 
 ---
