@@ -1,10 +1,3 @@
-You're right — let's fix that! Below is your complete and improved **GitHub Profile README** as a proper, fully formatted **Markdown file** with a clean, modern look and engaging widgets.
-
----
-
-### ✅ Save this as your `README.md` in your GitHub profile repository:
-
-````markdown
 <h1 align="center">Hey there, I'm Muhammad Inam Bari 👋</h1>
 
 <p align="center">
